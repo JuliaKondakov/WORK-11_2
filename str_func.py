@@ -6,4 +6,5 @@ def foo(s: str) -> str:
 
 def foo(s: str) -> str:
     """заглавные певрые буквы"""
+    """БАГ"""
     return s.title()
